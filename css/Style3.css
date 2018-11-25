@@ -1,0 +1,66 @@
+
+/*basics*/
+.container{
+	margin:30px auto auto 30px;
+}
+
+.display-inline-block{
+	display: inline-block;
+}
+/*basics end*/
+
+/*header*/
+.logo{
+	width: 100px;
+	vertical-align: middle;
+	padding-right: 50px;
+
+}
+.navigatian-a{
+	font-size: 22px;
+	color: #3d58a6;
+	text-decoration: none;
+	padding: 0 25px 0 25px;
+	font-family: 'BPG Nino Mtavruli Bold', sans-serif;
+
+}
+.active{
+	color: #ee4036;
+}
+
+/*header end*/
+
+
+/*main*/
+
+.mapbg{
+	background-color: #e6e6e6;
+}
+.map{
+	width: 875px;
+	margin-left: 400px;
+	margin-top: 50px;
+	margin-right: 90px;
+	margin-bottom: 55px;
+}
+
+
+/*main end*/
+
+/*footer*/
+.fb{
+	height: 30px;
+	
+}
+.divider{
+	background-color: #3d58a6;
+	height: 30px;
+	width: 1px; 
+	margin-right: 33px;
+	margin-left: 33px; 
+}
+.yt{
+	height: 30px;
+
+}
+/*footer end*/
