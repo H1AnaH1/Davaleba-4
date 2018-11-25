@@ -1,0 +1,42 @@
+.display-inline-block{
+	display: inline-block;
+}
+
+.container{
+	margin:30px auto auto 30px;
+}
+
+.logo{
+	width: 100px;
+	vertical-align: middle;
+	padding-right: 50px;
+
+}
+.navigatian-a{
+	font-size: 22px;
+	color: #3d58a6;
+	text-decoration: none;
+	padding: 0 25px 0 25px;
+
+}
+.active{
+	color: #ee4036;
+}
+.text{
+	width: 930px;
+}
+.image{
+	width: 270px;
+	vertical-align: top;
+}
+.fb{
+	height: 30px;
+}
+.divider{
+	background-color: #3d58a6;
+	height: 30px;
+	width: 1px; 
+}
+.yt{
+	height: 30px;
+}
