@@ -16,6 +16,7 @@
 	color: #3d58a6;
 	text-decoration: none;
 	padding: 0 25px 0 25px;
+	font-family: 'BPG Nino Mtavruli Bold', sans-serif;
 
 }
 .active{
@@ -29,6 +30,9 @@
 	vertical-align: top;
 }
 
+.satauri{
+	font-family: 'BPG Nino Mtavruli', sans-serif;
+}
 .fb{
 	height: 30px;
 	
