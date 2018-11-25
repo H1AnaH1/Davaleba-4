@@ -1,11 +1,10 @@
-.display-inline-block{
-	display: inline-block;
-}
-
 .container{
 	margin:30px auto auto 30px;
 }
 
+.display-inline-block{
+	display: inline-block;
+}
 .logo{
 	width: 100px;
 	vertical-align: middle;
@@ -29,6 +28,9 @@
 	width: 270px;
 	vertical-align: top;
 }
+.footer{
+	background-color: grey;
+}
 .fb{
 	height: 30px;
 }
@@ -39,4 +41,28 @@
 }
 .yt{
 	height: 30px;
+}
+.tarigi{
+	color: white;
+	background-color: #3d58a6;
+	font-size: 48px;
+	padding: 5px;
+	margin-bottom: 7px;
+
+}
+.maisi{
+	font-size: 22px;
+	color: #3d58a6;
+	margin-bottom: 26px;
+}
+.calendar{
+	margin-top: 40px;
+}
+
+.wrapper{
+	margin-bottom: 60px;
+	
+}
+.toptext{
+	margin-bottom: 23px;
 }
