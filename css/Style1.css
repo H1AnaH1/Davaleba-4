@@ -1,3 +1,5 @@
+
+/*basics*/
 .container{
 	margin:30px auto auto 30px;
 }
@@ -5,6 +7,9 @@
 .display-inline-block{
 	display: inline-block;
 }
+/*basics end*/
+
+/*header*/
 .logo{
 	width: 100px;
 	vertical-align: middle;
@@ -22,23 +27,55 @@
 .active{
 	color: #ee4036;
 }
+
+/*header end*/
+
+
+/*main*/
 .text{
 	width: 930px;
+	font-family: 'BPG Ingiri Arial';
+	font-size: 16px;
 }
 .image{
 	width: 270px;
 	vertical-align: top;
+	margin-right: 39px;
 }
 
 .satauri{
 	font-family: 'BPG Nino Mtavruli', sans-serif;
+	font-size: 20px;
 }
-.text{
-	font-family: 'BPG Ingiri Arial';
+.toptext{
+	margin-bottom: 23px;
 }
-.image{
-	margin-right: 39px;
+.tarigi{
+	color: white;
+	background-color: #3d58a6;
+	font-size: 48px;
+	padding: 5px;
+	margin-bottom: 7px;
+
 }
+.maisi{
+	font-size: 22px;
+	color: #3d58a6;
+	margin-bottom: 26px;
+	font-family: 'BPG Nino Mtavruli', sans-serif;
+}
+.calendar{
+	margin-top: 40px;
+}
+
+.wrapper{
+	margin-bottom: 60px;
+
+}
+
+/*main end*/
+
+/*footer*/
 .fb{
 	height: 30px;
 	
@@ -54,27 +91,5 @@
 	height: 30px;
 
 }
-.tarigi{
-	color: white;
-	background-color: #3d58a6;
-	font-size: 48px;
-	padding: 5px;
-	margin-bottom: 7px;
 
-}
-.maisi{
-	font-size: 22px;
-	color: #3d58a6;
-	margin-bottom: 26px;
-}
-.calendar{
-	margin-top: 40px;
-}
-
-.wrapper{
-	margin-bottom: 60px;
-
-}
-.toptext{
-	margin-bottom: 23px;
-}
+/*footer end*/
